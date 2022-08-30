@@ -1,4 +1,4 @@
-## Para instalar el proyecto de deben seguir los siguientes pasos:  
+## Para instalar el proyecto se deben seguir los siguientes pasos:  
 - php --version  
 - composer install  
 - composer update  
